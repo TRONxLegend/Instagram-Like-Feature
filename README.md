@@ -7,9 +7,8 @@ and the total number of likes is displayed in real-time. The project is built wi
 --
 Like/Unlike functionality for posts
 Real-time like count update
-User authentication and session management
 Responsive UI design
-Backend API for managing likes
+
 
 #Tech Stack
 -
