@@ -1,4 +1,4 @@
-Instagram-Like-Feature
+#Instagram-Like-Feature
 ------
 This project implements a feature similar to Instagram's like functionality. Users can like posts, 
 and the total number of likes is displayed in real-time. The project is built with a focus on scalability and ease of integration into existing platforms.
